@@ -1,0 +1,4 @@
+{
+  "name": "CQF Filter Manager & DB Explorer",
+  "description": "A tool to parse SQLite databases, extract primary keys, and manage Counting Quotient Filters (CQF) visually."
+}
